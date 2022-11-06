@@ -13,6 +13,7 @@ Dataset merupakan kumpulan dari suatu data yang menggambarkan suatu topik terten
 Daun Pepaya dan Seledri dapat disebut sebagai label, dengan kata lain terdapat 2 label yang digunakan. Setiap label memiliki 50 image, dengan rincian:
 
 Label Daun Pepaya = 50 image
+
 Label Daun Seledri = 50 image Sehingga, total image yang akan digunakan adalah 100 image.
 
 
